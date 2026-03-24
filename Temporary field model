@@ -1,0 +1,1 @@
+16 bits "input activation"  1 bit "activation state" 1 bit "severelybad" 4 bits "mode" 16 bits "sigmoid" 8 bits counter1 8 bits counter2 16bit IAPast1 16 bit hmmmTBA 
